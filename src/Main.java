@@ -7,6 +7,7 @@ public class Main {
         String[] arr = {"Денис", "Василий", "Егор", "Денис", "Антон", "Александр", "Василий", "Антон", "Денис", "Андрей"};
 
         statistic(arr);
+
     }
 
     public static void statistic(String[] arr) {
